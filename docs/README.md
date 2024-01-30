@@ -1,5 +1,9 @@
 # more-to-explore
 
+![IMG_0993](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6b4d4d86-750e-4b35-9bbb-bad708f34151)
+
+---
+
 # Our official wiki!
 Welcome… It’s a fresh new blank world, you haven’t touched it yet, but others have…
 
@@ -8,3 +12,5 @@ As a Minecraft mod we strive to improve the gameplay by adding new content and l
 Villagers at war with Illagers, Piglins rebuilding their crumbling empire, the Undead rising from their graves with soulless masters, and lots of other creatures waiting for you to — Explore…
 
 This mod has added storylines, for increased content, and a variety of mobs, items, artefact items, structures, armour and so much more to discover…
+
+![IMG_1612](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/a84d774a-2dd2-4a91-875a-542dda9a42d4)
