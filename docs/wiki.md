@@ -1,6 +1,6 @@
 layout: page
 title: "Welcome to More to Explore's wiki!"
-permalink: /home
+permalink: /hom
 ## Here contains the mod's info and guide
 Welcome… It’s a fresh new blank world, you haven’t touched it yet, but others have…
 
@@ -17,5 +17,7 @@ This mod has added storylines, for increased content, and a variety of mobs, ite
 ## Why hesitate, let's get started!
 
 [Items](https://www.1d10t1c-stud10s/more-to-explore/items)
+
 [Entities](https://www.example.com) 
+
 [Blocks](https://www.example.com)
