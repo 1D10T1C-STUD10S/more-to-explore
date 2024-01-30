@@ -1,6 +1,3 @@
-layout: page
-title: "Welcome to More to Explore's wiki!"
-permalink: /hom
 ## Here contains the mod's info and guide
 From the shambling crystal bone skeletons to great masters of magic, from the hollow tin tools to powerful spellbooks, from small tents to abandoned strongholds, we have the smallest additions to large modifications to the vanilla game! And the best part is, we have it all documented here!
 
@@ -10,8 +7,8 @@ From the shambling crystal bone skeletons to great masters of magic, from the ho
 
 ## Why hesitate, let's get started!
 
-[Items](https://www.1d10t1c-stud10s/more-to-explore/items)
+- [Items](https://www.1d10t1c-stud10s/more-to-explore/items)
 
-[Entities](https://www.example.com) 
+- [Entities](https://www.example.com) 
 
-[Blocks](https://www.example.com)
+- [Blocks](https://www.example.com)
