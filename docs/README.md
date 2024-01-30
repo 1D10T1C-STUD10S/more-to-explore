@@ -18,7 +18,7 @@ Villagers at war with Illagers, Piglins rebuilding their crumbling empire, the U
 This mod has added storylines, for increased content, and a variety of mobs, items, artefact items, structures, armour and so much more to discover…
 
 # WIKI START:
-[Start here!](https://www.1d10t1c-stud10s.github.io/more-to-explore/wiki)
+[Start here!](https://www.1d10t1c-stud10s.github.io/more-to-explore/wiki.html)
 
 ---
 
