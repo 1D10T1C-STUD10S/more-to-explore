@@ -19,12 +19,12 @@ This mod has added storylines, for increased content, and a variety of mobs, ite
 
 ---
 
-# DOWNLOAD LINKS:
-[Links!](https://1d10t1c-stud10s.github.io/more-to-explorlinks.html)
+# *DOWNLOAD LINKS:*
+[Links!](https://1d10t1c-stud10s.github.io/more-to-explore/links.html)
 
 ---
 
-# WIKI START:
+# *WIKI AND GUIDE:*
 [Start here!](https://1d10t1c-stud10s.github.io/more-to-explore/wiki.html)
 
 ---
