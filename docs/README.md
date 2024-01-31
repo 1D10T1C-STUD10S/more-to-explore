@@ -1,6 +1,6 @@
-# more-to-explore
+# **More to Explore Pages**
 
-![IMG_0993](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6b4d4d86-750e-4b35-9bbb-bad708f34151)
+<centre><img src="https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6b4d4d86-750e-4b35-9bbb-bad708f34151" width="400" height="290"></centre>
 
 ---
 
