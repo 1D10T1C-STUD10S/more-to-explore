@@ -29,6 +29,11 @@ This mod has added storylines, for increased content, and a variety of mobs, ite
 
 ---
 
+## *Trailers and Others:*
+[Start here!](https://1d10t1c-stud10s.github.io/more-to-explore/trailers.html)
+
+---
+
 # Why use this mod?
 
 - We are 100% free! No need to pay for anything
