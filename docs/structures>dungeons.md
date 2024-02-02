@@ -6,7 +6,7 @@ These structures are mainly for acquiring loot and for exploration.
 
 ---
 
- ## 1. Amethyst Dungeon:
+## 1. Amethyst Dungeon:
 
 ***Difficulty***: mid-game
 
