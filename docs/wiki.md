@@ -7,8 +7,11 @@ From the shambling crystal bone skeletons to great masters of magic, from the ho
 
 ## Why hesitate, let's get started!
 
-- [Items](https://www.1d10t1c-stud10s/more-to-explore/items)
+- [Structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures.html)
+
+- [Items](https://1d10t1c-stud10s.github.io/more-to-explore/items.html)
 
 - [Entities](https://www.example.com) 
 
 - [Blocks](https://www.example.com)
+
