@@ -1,5 +1,9 @@
 # Dungeon Structures:
 
+For clarity stroyline structures are not listed here!
+
+These structures are mainly for acquiring loot and for exploration.
+
 ---
 
  ## 1. Amethyst Dungeon:
@@ -10,6 +14,8 @@
 
 **Mobs**: crystallised skeleton, amethyst mage
 
+**Rarity**: very rare
+
  ---
 
 ## 2. Airship Dungeon:
@@ -18,7 +24,8 @@
 
 **Loot**: sky essence, spellbooks (feather flight only), steel, diamond, redstone, arrows, fireworks, mechanical helmet, metal sheets, cogs
 
-**Mobs**: reaver, furnacologer, illager aviator, 
+**Mobs**: reaver, furnacologer, illager aviator, illager airship
 
+**Rarity**: super rare
 
  ---
