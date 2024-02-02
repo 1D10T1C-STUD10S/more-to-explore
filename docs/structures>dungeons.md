@@ -1,6 +1,6 @@
 # Dungeon Structures:
 
-For clarity stroyline structures are not listed here!
+For clarity storyline structures are not listed here!
 
 These structures are mainly for acquiring loot and for exploration.
 
