@@ -2,7 +2,7 @@
 
 ---
 
-1. Amethyst Dungeon:
+ ## 1. Amethyst Dungeon:
 
 ***Difficulty***: mid-game
 
@@ -12,6 +12,13 @@
 
  ---
 
-2. 
+## 2. Airship Dungeon:
+
+***Difficulty***: end-game
+
+**Loot**: sky essence, spellbooks (feather flight only), steel, diamond, redstone, arrows, fireworks, mechanical helmet, metal sheets, cogs
+
+**Mobs**: reaver, furnacologer, illager aviator, 
+
 
  ---
