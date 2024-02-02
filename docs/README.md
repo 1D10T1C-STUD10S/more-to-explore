@@ -1,6 +1,6 @@
 # **More to Explore Pages**
 
-<centre><img src="https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6b4d4d86-750e-4b35-9bbb-bad708f34151" width="400" height="200"></centre>
+<img src="https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6b4d4d86-750e-4b35-9bbb-bad708f34151" width="400" height="300">
 
 ---
 
@@ -19,12 +19,12 @@ This mod has added storylines, for increased content, and a variety of mobs, ite
 
 ---
 
-# *DOWNLOAD LINKS:*
+## *DOWNLOAD LINKS:*
 [Links!](https://1d10t1c-stud10s.github.io/more-to-explore/links.html)
 
 ---
 
-# *WIKI AND GUIDE:*
+## *WIKI AND GUIDE:*
 [Start here!](https://1d10t1c-stud10s.github.io/more-to-explore/wiki.html)
 
 ---
