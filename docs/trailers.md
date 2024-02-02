@@ -1,4 +1,4 @@
-# More to Explore's testlog!
+# More to Explore's trailers!
 
 ---
 
