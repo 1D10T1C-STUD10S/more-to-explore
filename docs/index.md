@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 # **The Explorer's Compendium**
 
 <img src="https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6b4d4d86-750e-4b35-9bbb-bad708f34151" width="400" height="300">
