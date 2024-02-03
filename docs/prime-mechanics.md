@@ -11,7 +11,12 @@ These spruce up the gameplay, adding new ways to do things and new things to do,
 ### Storylines
 These quests can be done at anytime and are usually independent from eachother, meaning you do not need to complete one before the other. Each one requires you to find specific structures, and will get you unique items after boss fights.
 
-You can find storytellers at taverns throughout your world who will tell you where to start.
+You can find storytellers at taverns throughout your world who will tell you where to start for some storylines (Relic)
+
+---
+
+### Taverns
+Found throughout the world, being a place of refuge and shelter, you can find the esteemed storyteller there who will sell you lost tales, spawning there is also relic traders and regular villagers.
 
 ---
 
