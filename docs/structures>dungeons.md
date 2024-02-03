@@ -34,11 +34,33 @@ These structures are mainly for acquiring loot and for exploration.
 
 ***Difficulty***: end-game
 
+**Structure Cluster**:
+- 1 Mesa Factory
+- 2 Mesa Lumber Storages
+- 1 Mesa Warehouse
+
 **Loot**: steel, gold related items, iron, coal, charcoal, logs, drystone, exp bottles
 
 **Mobs**: Illager Miner, Bandit, Furnacologer, Pillager, Vindicator
 
-**Rarity**: very rare
+**Rarity**: super rare
 
+
+---
+
+## 4. Gale Ramparts
+
+***Difficulty***: early-game
+
+**Structure Cluster**: 
+- 1 gale keep
+- 0-3 gale towers
+- 0-2 gale shrines
+
+**Loot**: quartz, gold, sky essence, gale gem, goat horn, beef sandwich, emeralds
+
+**Mobs**: Gale Guard, Furnacologer, Furnace golem
+
+**Rarity**: common
 
 ---
