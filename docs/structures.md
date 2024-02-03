@@ -1,5 +1,10 @@
 # Structrues
 
+How difficulty is determined:
+We tested the structure twice, once with netherite tools and armor and once with iron, then rated it based on how many times we struggled to beat the structure.
+
+
+
 ---
 
 ## Categorised as follows:
