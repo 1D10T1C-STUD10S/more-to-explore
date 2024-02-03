@@ -4,7 +4,7 @@
 
 ## Categorised as follows:
 
-- [Dungeon Structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures>dungeons.html) :
+ - [Dungeon Structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures>dungeons.html) :
    
    Mid to large sized structures, can include storyline strcutures and primary             structures ,
    contains mid game to end game loot depending on difficulty.
@@ -12,7 +12,7 @@
 
 ---
 
-- [Primary Structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures>primary.html) :
+ - [Primary Structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures>primary.html) :
    
    Varying size, can include storyline structures,
    may or may not contain loot.
@@ -20,7 +20,7 @@
 
 ---
    
-- [Storylines Structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures>storyline.html) :
+ - [Storylines Structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures>storyline.html) :
 
    Varying in size, they are crucial in completing storylines,
    best advised to avoid the structures unless it is part of the storyline you are    completing!
@@ -28,7 +28,7 @@
 
 ---
 
-- [Side Structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures>side.html)
+ - [Side Structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures>side.html)
 
    Mostly small structures that are often generating near one another, containing early    game loot, some of which provide protection and shelter for the player.
    Not usually important but worth visiting at least once (please?)
