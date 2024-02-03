@@ -29,3 +29,16 @@ These structures are mainly for acquiring loot and for exploration.
 **Rarity**: super rare
 
  ---
+
+## 3. Mesa Mining Outpost
+
+***Difficulty***: end-game
+
+**Loot**: steel, gold related items, iron, coal, charcoal, logs, drystone, exp bottles
+
+**Mobs**: Illager Miner, Bandit, Furnacologer, Pillager, Vindicator
+
+**Rarity**: very rare
+
+
+---
