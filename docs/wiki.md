@@ -5,6 +5,8 @@ From the shambling crystal bone skeletons to great masters of magic, from the ho
 
 ## Why hesitate, let's get started!
 
+- [Prime Mechanics](https://1d10t1c-stud10s.github.io/more-to-explore/prime-mechanics.html)
+
 - [Structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures.html)
 
 - [Items](https://1d10t1c-stud10s.github.io/more-to-explore/items.html)
