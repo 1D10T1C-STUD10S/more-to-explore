@@ -31,8 +31,14 @@ This mod has added storylines, for increased content, and a variety of mobs, ite
 
 ---
 
+## *About and Dev Team*
+[About](https://1d10t1c-stud10s.github.io/more-to-explore/About.html)
+
+
+---
+
 ## *Trailers and Others:*
-[Start here!](https://1d10t1c-stud10s.github.io/more-to-explore/trailers.html)
+[Over here!](https://1d10t1c-stud10s.github.io/more-to-explore/trailers.html)
 
 ---
 
