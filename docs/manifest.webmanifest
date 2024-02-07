@@ -1,16 +1,16 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
-  "scope": "/github-page-pwa/",
-  "start_url": "/github-page-pwa/",
+  "name": "MtE Wiki",
+  "short_name": "MTEW",
+  "description": "The Explorer's Compendium",
+  "scope": "/more-to-explore/",
+  "start_url": "/more-to-explore/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
-        "type": "image/png",
+        "src": "/more-to-explore/favicon.ico",
+        "type": "image/ico",
         "sizes": "700x700"
       }
   ]
