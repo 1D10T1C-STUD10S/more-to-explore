@@ -28,6 +28,7 @@ This mod has added storylines, for increased content, and a variety of mobs, ite
 
 ## *DOWNLOAD LINKS:*
 [Links!](https://1d10t1c-stud10s.github.io/more-to-explore/links.html)
+
 [GitHub Project download page](https://github.com/1D10T1C-STUD10S/more-to-explore-source/releases)
 
 
