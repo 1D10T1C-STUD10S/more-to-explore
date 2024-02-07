@@ -6,17 +6,27 @@
   "start_url": "/more-to-explore/",
   "background_color": "#3d3d3d",
   "theme_color": "#dcdcdc",
-  "display": "standalone",
+  "display": "minimal-ui",
   "icons": [
     {
       "src": "/more-to-explore/icon.png",
       "type": "image/png",
-      "sizes": "2536x2536"
+      "sizes": "634x634"
     }
   ],
   "id": "MTEWiki",
   "categories": [
     "books",
-    "games"
-  ]
+    "games",
+    "utilities"
+  ],
+  "display_override": [
+    "standalone",
+    "minimal-ui",
+    "fullscreen",
+    "window-controls-overlay"
+  ],
+  "dir": "auto",
+  "lang": "en",
+  "orientation": "any"
 }
