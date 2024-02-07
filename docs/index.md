@@ -11,7 +11,7 @@
 # Our official wiki!
 This is a Minecraft mod and is currently only available for Minecraft: Bedrcock Edition!
 
-Our main download link:
+***Our main download link:***
 [**GitHub Project download page**](https://github.com/1D10T1C-STUD10S/more-to-explore-source/releases)
 
 ---
