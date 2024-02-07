@@ -4,14 +4,19 @@
   "description": "The Explorer's Compendium",
   "scope": "/more-to-explore/",
   "start_url": "/more-to-explore/",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
-  "display": "standalone", 
+  "background_color": "#3d3d3d",
+  "theme_color": "#dcdcdc",
+  "display": "standalone",
   "icons": [
-      {
-        "src": "/more-to-explore/favicon.ico",
-        "type": "image/ico",
-        "sizes": "700x700"
-      }
+    {
+      "src": "/more-to-explore/icon.png",
+      "type": "image/png",
+      "sizes": "2536x2536"
+    }
+  ],
+  "id": "MTEWiki",
+  "categories": [
+    "books",
+    "games"
   ]
 }
