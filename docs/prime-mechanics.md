@@ -23,23 +23,29 @@ Found throughout the world, being a place of refuge and shelter, you can find th
 ### Bossfights
 Bossfights usually start with a pressure plate in a pedestal looking centrepiece, minibosses also have this sort of arena, boss structure details:
 
-Woodland library WIP - Invoker [BOSS]
-Illager forge WIP - Tinkerer {MINIBOSS}
-Nether fortress pinnacle WIP - Wildfire {MINIBOSS}
-Bastion arena WIP - Bastion Piglin {MINIBOSS}
-Ancient stronghold WIP - Remnant [BOSS]
+- Woodland library WIP - Invoker [BOSS]
+  
+- Illager forge WIP - Tinkerer {MINIBOSS}
+  
+- Nether fortress pinnacle WIP - Wildfire {MINIBOSS}
+
+- Bastion arena WIP - Bastion Piglin {MINIBOSS}
+  
+- Ancient stronghold WIP - Remnant [BOSS]
 
 ---
 
 ### Enhanced patrols
 Larger illager patrols now spawn throughout your world, details:
 
-Illager mining patrol - Miner illager, Furnacologer, Pillager
-Bandit patrol - Pillager, Bandit
-Woodland guard patrol - Illager Guard, Vindicator, Illager mage
+- Illager mining patrol - Miner illager, Furnacologer, Pillager
+- Bandit patrol - Pillager, Bandit
+- Woodland guard patrol - Illager Guard, Vindicator, Illager mage
+
+
 Villagers also have patrols now,
 
-Villager patrol - Village archer, Villager defender
+- Villager patrol - Village archer, Villager defender
 
 ---
 
