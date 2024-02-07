@@ -1,7 +1,7 @@
 title: More to Explore
 description: MtE wiki and Downloads!
 encoding: UTF-8
-show_downloads: true
+show_downloads: false
 lsi: false
 safe: true
 source: [main]
