@@ -64,3 +64,15 @@ These structures are mainly for acquiring loot and for exploration.
 **Rarity**: common
 
 ---
+
+## 5. Illager Mine
+
+***Difficulty***: end-game
+
+**Loot**: diamond, gold, dragon gold, tin, iron, beef sandwich, emeralds
+
+**Mobs**: Illager Miner, Illager Guard, Pillager, Minillager
+
+**Rarity**: rare
+
+---
