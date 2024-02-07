@@ -1,4 +1,6 @@
 <meta name="google-site-verification" content="Jq7ti0H2S7XbJhN1TBIajTwDni7ICrDz7datSE-eIoA" />
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 
 # **The Explorer's Compendium**
 
