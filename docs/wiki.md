@@ -11,7 +11,7 @@ From the shambling crystal bone skeletons to great masters of magic, from the ho
 
 - [Items](https://1d10t1c-stud10s.github.io/more-to-explore/items.html)
 
-- [Entities](https://www.example.com) 
+- [Entities](https://1d10t1c-stud10s.github.io/more-to-explore/entities.html) 
 
 - [Blocks](https://www.example.com)
 
