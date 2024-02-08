@@ -29,6 +29,14 @@
 
 ---
 
+<img src="https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/0f353ade-d1c7-41eb-9af5-611962e76ba6" width="100" height="100">
+- Noob_Lord
+
+- brainstormer
+- alpha tester
+
+---
+
 <img src="https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/15e5573e-010f-4b6a-b6b4-656a93fb69a1" width="100" height="100">
 - The_Rat_King
 
