@@ -64,7 +64,10 @@ Related storyline: The Last of the Relicsmiths
 
 ---
 
-### Spellbooks
+### Magic
+
+
+##Spellbooks
 Each book has unique abilities, generic spell books and great spell books can be transformed into a random spellbook.
 
 Spell types can be found in its allocated biome:
