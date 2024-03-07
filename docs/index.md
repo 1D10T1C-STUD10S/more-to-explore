@@ -14,6 +14,8 @@ This is a Minecraft mod and is currently only available for Minecraft: Bedrcock 
 ***Our main download link:***
 [GitHub Project download page](https://github.com/1D10T1C-STUD10S/more-to-explore-source/releases)
 
+![WhatsApp Image 2024-02-26 at 22 52 39](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/c6dc60d8-ae2b-4514-8a38-525e3d835b9c)
+
 ---
 
 Welcome… It’s a fresh new blank world, you haven’t touched it yet, but others have…
