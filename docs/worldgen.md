@@ -9,8 +9,8 @@ MtE makes quite a few changes to the vanilla biomes, adding small sub biomes
 
 ---
 
-Structures: https://1d10t1c-stud10s.github.io/more-to-explore/structures.html
+Structures: [go to structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures.html)
 
-Modified Biomes: https://1d10t1c-stud10s.github.io/more-to-explore/biomes.html
+Modified Biomes: [go to biomes](https://1d10t1c-stud10s.github.io/more-to-explore/biomes.html)
 
 ---
