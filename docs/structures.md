@@ -1,9 +1,12 @@
 # Structrues
 
+![1000027950](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/5b3a2624-8c00-4d3e-be2b-b541a838163d)
+
+
 How difficulty is determined:
 We tested the structure twice, once with netherite tools and armor and once with iron, then rated it based on how many times we struggled to beat the structure.
 
-
+Don't expect to find all structures in a single playthrough (considering you don't play for 24 hours straight each time)
 
 ---
 
