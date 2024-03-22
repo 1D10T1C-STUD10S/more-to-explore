@@ -8,6 +8,8 @@ These structures are mainly for acquiring loot and for exploration.
 
 ## 1. Amethyst Dungeon:
 
+   Once the lair of a powerful sect of ancient sorcerers,the fools sought to master the thaumaturgical secrets buried within the oppulence of amethyst, only to lose themselves under the influence of the Krystalline...
+   
 ***Difficulty***: mid-game
 
 **Loot**: spellbooks (forest specific), amethyst shards and clusters, amethyst blocks, relic, emeralds, iron, arrows, books
@@ -20,6 +22,8 @@ These structures are mainly for acquiring loot and for exploration.
 
 ## 2. Airship Dungeon:
 
+   Flying fortresses of mechanical genius and the motherships of the newly founded Illager Aeronautics division, these terrifying feats of engineering are the pride of the Tinkerers, and can rain hellfire from above.
+   
 ***Difficulty***: end-game
 
 **Loot**: sky essence, spellbooks (feather flight only), steel, diamond, redstone, arrows, fireworks, mechanical helmet, metal sheets, cogs
@@ -32,6 +36,8 @@ These structures are mainly for acquiring loot and for exploration.
 
 ## 3. Mesa Mining Outpost
 
+   The backbone of the Illager empire, these rare outposts provide the abundant ressources that are forged into the strongest of Illager weapons and supply the empires forges with the lumber and ores used to satiate their Crucibles.
+   
 ***Difficulty***: end-game
 
 **Structure Cluster**:
