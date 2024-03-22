@@ -14,10 +14,10 @@ Since the generation method for these custom sub biomes aren't using typical met
 
 - found in: forests (excluding taigas, birch)
 - trees and shrubs:
- - maple
- - oak
- - birch
- - wheat fields
- - grass
+  - maple
+  - oak
+  - birch
+  - wheat fields
+  - grass
 
 ---
