@@ -21,3 +21,38 @@ Since the generation method for these custom sub biomes aren't using typical met
   - grass
 
 ---
+
+### Aspen Forest
+
+
+
+- found in: birch forests
+- trees and shrubs:
+  - aspen
+  - oak
+  - birch
+
+---
+
+## Revamped Biomes
+
+---
+
+### Savanna
+
+![1000028356](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/a7af6131-b96f-496b-8392-4d5db9c615ab)
+![1000037457](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6573285a-0219-4ef8-932f-1f8c46de6070)
+
+Revamped with:
+- Natural:
+  - New acacia tree variants
+  - Plateaus contain cypress trees
+  - Acacia shrubs
+  - Wheat fields
+  - Dryslate and coarse dirt terrain  patches
+
+ - Structures:
+   - Savage/Samurai forts
+   - Illager caravans
+
+---
