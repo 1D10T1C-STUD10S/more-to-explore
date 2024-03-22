@@ -16,6 +16,10 @@ You can find storytellers at taverns throughout your world who will tell you whe
 ---
 
 ### Taverns
+
+![1000039482](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/8f8b8d14-7d02-4598-bd3e-5ea5e9c6e164)
+
+
 Found throughout the world, being a place of refuge and shelter, you can find the esteemed storyteller there who will sell you lost tales, spawning there is also relic traders and regular villagers.
 
 ---
