@@ -8,7 +8,7 @@ These structures are mainly for acquiring loot and for exploration.
 
 ## 1. Amethyst Dungeon:
 
-   Once the lair of a powerful sect of ancient sorcerers,the fools sought to master the thaumaturgical secrets buried within the oppulence of amethyst, only to lose themselves under the influence of the Krystalline...
+   Once the lair of a powerful sect of ancient sorcerers,the fools sought to master the thaumaturgical secrets buried within the oppulence of amethyst, only to lose themselves under it's influence, now eternal thralls of flesh and crystal...
    
 ***Difficulty***: mid-game
 
@@ -36,7 +36,7 @@ These structures are mainly for acquiring loot and for exploration.
 
 ## 3. Mesa Mining Outpost
 
-   The backbone of the Illager empire, these rare outposts provide the abundant ressources that are forged into the strongest of Illager weapons and supply the empires forges with the lumber and ores used to satiate their Crucibles.
+   The backbone of the Illager empire, these rare outposts provide the abundant resources that are forged into the mightiest of arms and supply the empire's forges with the lumber and precious ores used to satiate their voracious Crucibles.
    
 ***Difficulty***: end-game
 
@@ -56,6 +56,8 @@ These structures are mainly for acquiring loot and for exploration.
 
 ## 4. Gale Ramparts
 
+    Frigid forts found only in the harshest of environments, these ramparts are host to a divison of Illagers that worship the boundless strength of sky and wind, and seek to encapsulate it's energy in it's purest essence...
+    
 ***Difficulty***: early-game
 
 **Structure Cluster**: 
