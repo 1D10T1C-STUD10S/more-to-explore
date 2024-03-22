@@ -77,19 +77,19 @@ Related storyline: The Last of the Relicsmiths
 ### Magic
 
 
-##Spellbooks
+## Spellbooks
 Each book has unique abilities, generic spell books and great spell books can be transformed into a random spellbook.
 
 Spell types can be found in its allocated biome:
 
-Speedsteal, Bee - Plains
-Lifesteal - Savannah/badlands
-Summoning - Roofed forest/Summoner
-Vine - Jungle
-Sculk - Caves/crypts/dungeons
-Fire shield - Nether
-Water breathing - Beach/Ocean
-Barrage - Mountain/Illager Forge
-Feather flight, Buff - All biomes
+- Speedsteal, Bee - Plains
+- Lifesteal - Savannah/badlands
+- Summoning - Roofed forest/Summoner
+- Vine - Jungle
+- Sculk - Caves/crypts/dungeons
+- Fire shield - Nether
+- Water breathing - Beach/Ocean
+- Barrage - Mountain/Illager Forge
+- Feather flight, Buff - All biomes
 
 ---
