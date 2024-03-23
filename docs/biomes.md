@@ -1,4 +1,14 @@
 # Biomes
+
+---
+
+**<em>"You have brains in your head,
+You have feet in your shoes,
+You can steer yourself in any direction you choose"</em>**\
+~ Oh the Places you'll go, Dr. Seuss
+
+---
+
 Most of the listed are revamped vanilla biomes, however we did add some sub biomes that appear here and there.
 
 Since the generation method for these custom sub biomes aren't using typical methods, trees may sometimes be chopped up.
