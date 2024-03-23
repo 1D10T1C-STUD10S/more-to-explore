@@ -11,7 +11,8 @@ Since the generation method for these custom sub biomes aren't using typical met
 
 ![1000039394](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6f216228-a664-4c05-a451-2924627c9436)
 
-
+    'Autumn winds roll over golden fields of wheat, as yellowed leaves gracefully fall to the ground; Whilst delectable syrups drip into a pitcher at your feet, you hear the delicate twitter of sparrows abound...'
+    
 - found in: forests (excluding taigas, birch)
 - trees and shrubs:
   - maple
