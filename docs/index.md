@@ -11,10 +11,15 @@
 # Our official wiki!
 This is a Minecraft mod and is currently only available for Minecraft: Bedrcock Edition!
 
-***Our main download link:***
+## ***Our main download link:***
 [GitHub Project download page](https://github.com/1D10T1C-STUD10S/more-to-explore-source/releases)
-![1000036064](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/797c4dae-6f30-4a55-8901-7c781a2f5dc4)
 
+## ***Configure dark mode on this site!***
+[Guide here >](https://1d10t1c-stud10s.github.io/more-to-explore/site-config.html)
+
+---
+
+![1000036064](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/797c4dae-6f30-4a55-8901-7c781a2f5dc4)
 
 ---
 
