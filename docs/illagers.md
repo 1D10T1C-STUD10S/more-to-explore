@@ -2,14 +2,13 @@
 
 ---
 
-**<em>"Whenever they catch you, they will kill you,\
+**<em>"Whenever they catch you, they will kill you,
 but first they must catch you...
 "</em>**\
 ~ Watership Down
 
 ---
 
----
 
 - Illager Miner
   Health: 24
