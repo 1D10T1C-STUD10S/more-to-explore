@@ -28,6 +28,8 @@ Found throughout the world, being a place of refuge and shelter, you can find th
 ![1000028637](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/ff098fd0-f6c3-4aa4-8b01-1e326462b489)
 *"stay on the road and you'll be safe"*
 
+Roads: [go to roads](https://1d10t1c-stud10s.github.io/more-to-explore/road.html)
+
 ---
 
 ### Bossfights
