@@ -20,6 +20,7 @@ Since the generation method for these custom sub biomes aren't using typical met
 ### Maple Forest
 
 ![1000039394](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6f216228-a664-4c05-a451-2924627c9436)
+![Minecraft 23_3_2024 10_48_36](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/57aed126-9467-4f67-b3e1-11723391dea7)
 
     
  'Autumn winds roll over golden fields of wheat, as yellowed leaves gracefully fall to the ground; Whilst delectable syrups drip into a pitcher at your feet, you hear the delicate twitter of sparrows abound...'
@@ -36,6 +37,7 @@ Since the generation method for these custom sub biomes aren't using typical met
 
 ### Aspen Forest
 
+![Minecraft 23_3_2024 10_52_23](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/f9ee2664-df9a-4762-a5aa-c7ff29907022)
 
 
 - found in: birch forests
