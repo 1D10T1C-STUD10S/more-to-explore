@@ -58,3 +58,45 @@ Revamped with:
    - Illager caravans
 
 ---
+
+### Plains
+
+![1000039517](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/b0bc0f55-fa7f-4e19-ad25-38d19c10fdc9)
+![1000039516](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/28962f2c-ee11-4d77-a375-4a927ae6b2ba)
+
+
+Revamped with:
+- Natural:
+  - New oak tree variants
+  - Plateaus contain cypress trees
+  - Fir trees
+  - Wheat fields
+  - Lavander and sweet pea patches
+
+ - Structures:
+   - Plains watchtowers
+   - Beehouses
+   - Illager Mines
+   - Illager caravans
+
+---
+
+### Deserts
+
+![1000039515](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/f4f8b986-ca32-4dd2-b244-1650ff6736b7)
+![1000039514](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/dfafa921-0867-4969-802e-efd640a9814e)
+
+Revamped with:
+- Natural:
+  - New palm trees
+  - Brittlebush flowers
+  - Aloe patches
+  - Limestone terrain patches
+
+ - Structures:
+   - Limestone ruins
+   - Desert ruins
+   - Dry mining outposts
+
+---
+
