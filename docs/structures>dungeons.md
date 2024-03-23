@@ -75,6 +75,9 @@ These structures are mainly for acquiring loot and for exploration.
 
 ## 5. Illager Mine
 
+![1000039518](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/88b0fa13-ea11-4494-a7dc-caef03dcf3ab)
+
+
 ***Difficulty***: end-game
 
 **Loot**: diamond, gold, dragon gold, tin, iron, beef sandwich, emeralds
