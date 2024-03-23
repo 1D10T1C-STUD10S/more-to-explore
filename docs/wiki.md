@@ -1,5 +1,12 @@
 # MtE Wiki
 
+---
+
+***"One day, you will be old enough to start reading fairytales again."***
+~ Chronicles of Narnia, C S Lewis
+
+---
+
 #### Here contains the mod's info and guide
 
 ![1000037232](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/ce00c93f-8a34-4961-a7d0-1d7ad384cd1f)
