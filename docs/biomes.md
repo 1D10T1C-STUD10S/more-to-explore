@@ -37,7 +37,7 @@ Since the generation method for these custom sub biomes aren't using typical met
 
 ### Aspen Forest
 
-![Minecraft 23_3_2024 10_52_23](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/f9ee2664-df9a-4762-a5aa-c7ff29907022)
+![Minecraft 23_3_2024 10_55_41](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/d19a02c0-6482-4cde-8c70-bcdb388f05a0)
 
 
 - found in: birch forests
