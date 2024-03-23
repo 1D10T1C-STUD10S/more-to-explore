@@ -1,5 +1,12 @@
 # World Gen
 
+---
+
+***"May the wind under your wings bear you where the sun sails and the moon walks"***\
+~ The Hobbit, J R R Tolkien
+
+---
+
 ![1000037364](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/f1fdad4a-4500-42ac-871b-868311be023e)
 
 There are multiple structures and natural features being added
