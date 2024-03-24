@@ -9,7 +9,8 @@ Storyline Structures are very important in the mod and have been crafted out car
 1. ***Rise of The Relicsmiths***
    
    **In this storyline there are a total of `3` structures:**
-    - [Tavern](https://1d10t1c-stud10s.github.io/more-to-explore/prime-mechanics.html) (Found throuout the world)
+    - [Tavern](https://1d10t1c-stud10s.github.io/more-to-explore/prime-mechanics.html) 'Whether for a pint of ale, a place of refuge or the beginnning of a glorious quest,taverns are the adventurers greatest friend'
+    - (Found throuout the world)
   
     - Ancient Stronghold (Found underground with the top sticking out)
       - Difficulty: mid-game
