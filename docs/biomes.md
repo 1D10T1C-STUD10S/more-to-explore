@@ -1,4 +1,4 @@
-# Biomes
+![1000040138](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/ef867da3-1076-4cd6-8d24-2889e0a200b5)# Biomes
 
 ---
 
@@ -23,7 +23,7 @@ Since the generation method for these custom sub biomes aren't using typical met
 ![Minecraft 23_3_2024 10_48_36](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/57aed126-9467-4f67-b3e1-11723391dea7)
 
     
- 'Autumn winds roll over golden fields of wheat, as yellowed leaves gracefully fall to the ground; Whilst delectable syrups drip into a pitcher at your feet, you hear the delicate twitter of sparrows abound...'
+*'Autumn winds roll over golden fields of wheat, as yellowed leaves gracefully fall to the ground; Whilst delectable syrups drip into a pitcher at your feet, you hear the delicate twitter of sparrows abound...'*
     
 - found in: forests (excluding taigas, birch)
 - trees and shrubs:
@@ -39,13 +39,29 @@ Since the generation method for these custom sub biomes aren't using typical met
 
 ![Minecraft 23_3_2024 10_55_41](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/d19a02c0-6482-4cde-8c70-bcdb388f05a0)
 
- Flecks of sunlight filter through the forest canopy, illuminating a rare splendour of nature: An expansive sea of enchanting golden foliage...
+*'Flecks of sunlight filter through the forest canopy, illuminating a rare splendour of nature: An expansive sea of enchanting golden foliage...'*
  
 - found in: birch forests
 - trees and shrubs:
   - aspen
   - oak
   - birch
+
+---
+
+### Bald Cypress Swamp
+
+![1000040139](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/da9a5736-2d66-4977-88f7-db6bd6acdb6c)
+
+
+![1000040137](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/91ee181b-bc23-49ed-b7ac-ae7f025c7265) 
+
+*'Within the moist air holds a vast and tall swamp, atop the cypress, sings the dastardly songs of the witches and their binding spells...'*
+ 
+- found in: swamplands
+- trees and shrubs:
+  - cypress
+  - mushrooms
 
 ---
 
