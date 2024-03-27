@@ -1,4 +1,4 @@
-![1000040138](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/ef867da3-1076-4cd6-8d24-2889e0a200b5)# Biomes
+# Biomes
 
 ---
 
