@@ -10,6 +10,8 @@
 #### Here contains the mod's info and guide
 
 ![1000037232](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/ce00c93f-8a34-4961-a7d0-1d7ad384cd1f)
+![1000040166](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/2799e6f7-cdb3-4553-9765-c2b68de5752a)
+
 
 
 From the shambling crystal bone skeletons to great masters of magic, from the hollow tin tools to powerful spellbooks, from small tents to abandoned strongholds, we have the smallest additions to large modifications to the vanilla game! And the best part is, we have it all documented here!
