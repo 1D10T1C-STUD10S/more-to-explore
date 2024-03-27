@@ -36,6 +36,8 @@ These structures are mainly for acquiring loot and for exploration.
 
 ## 3. Mesa Mining Outpost
 
+![1000040165](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/3bc0ef23-c0d4-459a-bcf4-3a442d58d162)
+
    The backbone of the Illager empire, these rare outposts provide the abundant resources that are forged into the mightiest of arms and supply the empire's forges with the lumber and precious ores used to satiate their voracious Crucibles.
    
 ***Difficulty***: end-game
@@ -56,7 +58,7 @@ These structures are mainly for acquiring loot and for exploration.
 
 ## 4. Gale Ramparts
 
-    Frigid forts found only in the harshest of environments, these ramparts are host to a divison of Illagers that worship the boundless strength of sky and wind, and seek to encapsulate it's energy in it's purest essence...
+Frigid forts found only in the harshest of environments, these ramparts are host to a divison of Illagers that worship the boundless strength of sky and wind, and seek to encapsulate it's energy in it's purest essence...
     
 ***Difficulty***: early-game
 
