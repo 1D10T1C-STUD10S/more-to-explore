@@ -3,7 +3,7 @@
  body {
 	 background-color: #000000;
 	 padding: 50px;
-	 font: 20px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	 font: 15px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	 color: #ffffff;
 	 font-weight: 400;
 }
@@ -48,7 +48,7 @@
 	 margin: 0 auto;
 }
  blockquote {
-	 border-left: 1px solid #e5e5e5;
+	 border-left: 1px solid #ffffff;
 	 margin: 0;
 	 padding: 0 0 0 20px;
 	 font-style: italic;
@@ -97,6 +97,7 @@
 	 vertical-align: middle;
 }
  header {
+	 colour: #ffffff
 	 width: 270px;
 	 float: left;
 	 position: fixed;
