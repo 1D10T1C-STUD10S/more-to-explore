@@ -1,7 +1,7 @@
 @import "fonts";
  @import "rouge-github";
  body {
-	 background-color: #373737;
+	 background-color: #000000;
 	 padding: 50px;
 	 font: 9.3333333333px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	 color: #ffffff;
