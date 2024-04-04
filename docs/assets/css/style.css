@@ -27,7 +27,7 @@
 	 color: #ffffff;
 }
  a {
-	 color: #267cb9;
+	 color: #ffffff;
 	 text-decoration: none;
 }
  a:hover, a:focus {
@@ -36,12 +36,12 @@
 }
  a small {
 	 font-size: 20px;
-	 color: #00000;
+	 color: #000000;
 	 margin-top: -0.3em;
 	 display: block;
 }
  a:hover small {
-	 color: #777;
+	 color: #ffffff;
 }
  .wrapper {
 	 width: 860px;
