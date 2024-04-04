@@ -4,11 +4,11 @@
 	 background-color: #373737;
 	 padding: 50px;
 	 font: 9.3333333333px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	 color: #f3f3f3;
+	 color: #ffffff;
 	 font-weight: 400;
 }
  h1, h2, h3, h4, h5, h6 {
-	 color: #222;
+	 color: #ffffff;
 	 margin: 0 0 20px;
 }
  p, ul, ol, table, pre, dl {
@@ -21,10 +21,10 @@
 	 font-size: 28px;
 }
  h2 {
-	 color: #393939;
+	 color: #ffffff;
 }
  h3, h4, h5, h6 {
-	 color: #494949;
+	 color: #ffffff;
 }
  a {
 	 color: #267cb9;
@@ -187,7 +187,7 @@
 		 padding-right: 320px;
 	}
 	 section {
-		 border: 1px solid #e5e5e5;
+		 border: 1px solid #ffffff;
 		 border-width: 1px 0;
 		 padding: 20px 0;
 		 margin: 0 0 20px;
