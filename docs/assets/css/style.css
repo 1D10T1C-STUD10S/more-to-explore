@@ -3,7 +3,7 @@
  body {
 	 background-color: #000000;
 	 padding: 50px;
-	 font: 9.3333333333px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	 font: 20px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	 color: #ffffff;
 	 font-weight: 400;
 }
@@ -35,8 +35,8 @@
 	 font-weight: bold;
 }
  a small {
-	 font-size: 11px;
-	 color: #777;
+	 font-size: 20px;
+	 color: #00000;
 	 margin-top: -0.3em;
 	 display: block;
 }
