@@ -129,3 +129,22 @@ Revamped with:
 
 ---
 
+### Redwood Taigas
+
+![1000049953](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/ba8eac11-6a9f-45f2-b6df-d54ff464e36f)
+![1000049942](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/2bc470a6-423c-431d-b0fe-f9f4a86fb343) 
+
+Revamped with:
+- Natural:
+  - redwood trees
+  - Blackberry bushes
+  - Bluegrass and Alphine fescue
+  - Fir trees
+
+ - Structures:
+   - Taverns
+   - Assassin Posts
+   - Lonley Cabins
+
+---
+
