@@ -9,12 +9,13 @@ Listed below are some trees you can find, and what they were supposed to resembl
 
 ## Pine
 
-You may mistake this tree for a fir at first, due to its appearance matching that of the Douglas Fir. However this pine resembles the Western White Pine, often found in mixed coniferous forests!
+Found in places where there is ample sunlight and moist soil, Pine trees in our mod stand tall amongst the others.
 
 Where to find this tree:
 - Meadows
 - Taiga (Green variant in regular, Orange variant in Mega Taigas)
-- Flower Forests
+- Plains
+- Flower forests
 
 ---
 
@@ -25,3 +26,29 @@ These spruce like trees can be found all over the world and doesn't really follo
 Where to find this tree:
 - Taiga
 - Plains
+- Mesas
+
+---
+
+## Ash
+
+This dedicious tree can be found in most places, even the swamps. Standing firm against tough weather.
+
+Where to find this tree:
+- Forests
+- Birch
+- Taiga
+- Roofed forests
+- Jungles
+
+---
+
+## Jacaranda
+
+Amidst the dull green, the Jacaranda stands out. Its purple flowers on its leaves makes the whole tree give off a different vibe.
+
+Where to find this tree:
+- Flower forests
+- Jungle
+
+---
