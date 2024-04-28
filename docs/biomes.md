@@ -1,5 +1,8 @@
 # Biomes
 
+![1000052603](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6d4e2f9a-89fe-4855-a4fc-c0e16d96f4f2)
+
+
 ---
 
 **<em>"You have brains in your head,
@@ -52,8 +55,6 @@ Since the generation method for these custom sub biomes aren't using typical met
 ### Bald Cypress Swamp
 
 ![1000040139](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/da9a5736-2d66-4977-88f7-db6bd6acdb6c)
-
-
 ![1000040137](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/91ee181b-bc23-49ed-b7ac-ae7f025c7265) 
 
 *'Within the moist air holds a vast and tall swamp, atop the cypress, sings the dastardly songs of the witches and their binding spells...'*
@@ -71,7 +72,7 @@ Since the generation method for these custom sub biomes aren't using typical met
 
 ### Savanna
 
-![1000028356](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/a7af6131-b96f-496b-8392-4d5db9c615ab)
+![1000052229](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/2d64fa54-582d-4161-a8dc-4a495d620eae)
 ![1000037457](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/6573285a-0219-4ef8-932f-1f8c46de6070)
 
 Revamped with:
@@ -81,6 +82,8 @@ Revamped with:
   - Acacia shrubs
   - Wheat fields
   - Dryslate and coarse dirt terrain  patches
+  - Cedar trees
+  - Cypress trees
 
  - Structures:
    - Savage/Samurai forts
@@ -99,6 +102,7 @@ Revamped with:
   - New oak tree variants
   - Plateaus contain cypress trees
   - Fir trees
+  - Pine trees
   - Wheat fields
   - Lavander and sweet pea patches
 
@@ -107,6 +111,7 @@ Revamped with:
    - Beehouses
    - Illager Mines
    - Illager caravans
+   - Small towns
 
 ---
 
@@ -148,3 +153,23 @@ Revamped with:
 
 ---
 
+## Mesas
+
+![1000052542](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/d8e8a214-d8ab-4fb0-b389-ad8141571a5e)
+
+Revamped with:
+- Natural:
+  - Strata rock formations
+  - sage, dried grass patches
+  - packed mud, strata, dark strata and cobblestone patches
+  - Cedar trees
+  - Cypress trees
+  - Fir trees
+
+- Structures:
+  - Mesa Town
+  - Illager Mining Outposts
+  - Water tower
+  - Relic trader camps
+
+---
