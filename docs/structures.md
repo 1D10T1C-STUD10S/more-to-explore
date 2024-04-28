@@ -43,9 +43,9 @@ Don't expect to find all structures in a single playthrough (considering you don
 
 ---
 
- - [Side Structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures>side.html)
+ - [Other structures](https://1d10t1c-stud10s.github.io/more-to-explore/structures>side.html)
 
    Mostly small structures that are often generating near one another, containing early    game loot, some of which provide protection and shelter for the player.
-   Not usually important but worth visiting at least once (please?)
+   Mainly used to fill the world with life and gives you a reason to continue exploring.
 
 ---
