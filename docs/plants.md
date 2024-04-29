@@ -51,3 +51,10 @@ Found in:
 - Swamplands
 
 ---
+
+## Barberry
+
+Drops barberries when broken.
+Found in:
+- Plains
+- Forests
