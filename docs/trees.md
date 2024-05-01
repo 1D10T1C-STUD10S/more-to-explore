@@ -1,4 +1,4 @@
-![1000055149](https://github.com/1D10T1C-STUD10S/more-to-explore/assets/112738649/a8ec60ae-a147-4adc-ace0-773cdee48fc3)# Trees
+# Trees
 
 Our mod adds a few new trees, but as of 
 now there hasn't been any custom woodsets yet.
